@@ -1,0 +1,6 @@
+{
+	"desc": "录音机支持声道、波段",
+	"requireFormatName": "eeuiRecorder",
+	"requireName": "eeui/recorder",
+	"title": "录音机"
+}

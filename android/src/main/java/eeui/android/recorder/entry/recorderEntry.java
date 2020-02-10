@@ -19,7 +19,7 @@ public class recorderEntry {
 
         //1、注册weex模块
         try {
-            WXSDKEngine.registerModule("recorder", ApprecorderModule.class);
+            WXSDKEngine.registerModule("eeuiRecorder", ApprecorderModule.class);
         } catch (WXException e) {
             e.printStackTrace();
         }
