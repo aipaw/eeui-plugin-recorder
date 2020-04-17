@@ -13,7 +13,7 @@
 
 @implementation ApprecorderModule
 
-WX_PlUGIN_EXPORT_MODULE(recorder, ApprecorderModule)
+WX_PlUGIN_EXPORT_MODULE(eeuiRecorder, ApprecorderModule)
 WX_EXPORT_METHOD(@selector(start::))
 WX_EXPORT_METHOD(@selector(pause:))
 WX_EXPORT_METHOD(@selector(stop:))
